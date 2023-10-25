@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Whymtx9
 - 👀 I’m interested in sports
-- 🌱 I’m currently learning automatisation
+- 🌱 I’m currently learning automation
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me : sens smthg on insta
+- 📫 How to reach me : send smthg on insta
 
 <!---
 Whymtx9/Whymtx9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
